@@ -1,0 +1,17 @@
+---
+baseurl: "https://b.qqbb.app/"
+DefaultContentLanguage: "zh-cn"
+hasCJKLanguage: true
+languageCode: "zh-cn"
+title: "Tom 曾云龙" 
+theme: "beautifulhugo-tom-base-yangchuansheng"
+metaDataFormat: "yaml"
+subtitle: "I can help you building financial freedom confidence"
+dateFormat: "January 2, 2006"
+description: "SRE🤘 AI🤘 Blockchain🤘 Cloud Native🤘 Big Data🤘 Fintech🤘 Quant"
+algolia:
+  index: "tomtsang-hugo-blog"
+  key: "2de82c717ab5cc8adb9c6304389a9ffd"
+  appID: "UOVQ0F6Y70"
+---
+

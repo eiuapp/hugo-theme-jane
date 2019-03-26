@@ -1,0 +1,17 @@
+[submodule "public"]
+	path = public
+	url = iuvv:iuvv/blog.git
+
+[submodule "jane"]
+	path = themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane.git
+	branch = master
+
+[submodule "beautifulhugotombaseyangchuansheng"]
+	path = themes/beautifulhugo-tom-base-yangchuansheng 
+	url = https://tomtsang@bitbucket.org/tomtsang/hugo-theme-beautifulhugo-tom-base-yangchuansheng.git 
+	branch = tom 
+
+[submodule "org"]
+	path = org
+	url = git@bitbucket.org:tomtsang/blog-org.git
