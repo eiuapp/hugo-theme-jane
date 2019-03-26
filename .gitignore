@@ -10,6 +10,7 @@ themes/beautifulhugo-tom-base-yangchuansheng.bak/
 themes/beautifulhugo-rootsongjc/
 themes/beautifulhugo
 themes/beautifulhugo-tom-base-yangchuansheng.md
+themes/jane-maiyangme/
 # org文档，是md文件的源文件
 org/
 # public文件夹，用于 deploy
@@ -23,10 +24,6 @@ content/
 
 # hugo 临时文件
 resources/
-
-# 主题
-themes/jane/
-themes/jane-maiyangme/
 
 # org文档，可以是md文件的源文件
 /org/
