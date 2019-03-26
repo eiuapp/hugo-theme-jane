@@ -1,0 +1,53 @@
+<?xml-stylesheet type="text/xsl" href="https://jane.eiu.app/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://jane.eiu.app/categories/</loc>
+    <lastmod>2018-01-31T15:55:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane.eiu.app/posts/git-github-tips/</loc>
+    <lastmod>2018-01-31T15:55:36+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane.eiu.app/posts/</loc>
+    <lastmod>2018-01-31T15:55:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane.eiu.app/tags/</loc>
+    <lastmod>2018-01-31T15:55:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane.eiu.app/tags/git/</loc>
+    <lastmod>2018-01-31T15:55:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane.eiu.app/categories/github/</loc>
+    <lastmod>2018-01-31T15:55:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane.eiu.app/tags/github/</loc>
+    <lastmod>2018-01-31T15:55:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jane.eiu.app/</loc>
+    <lastmod>2018-01-31T15:55:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
